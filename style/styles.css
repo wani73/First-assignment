@@ -50,17 +50,17 @@ margin-top: 35px;
 
 .development-container{
     
-/* border: 2px solid red; */
+border: 2px solid red;
 position: absolute;
 width: 1140px;
-height: 1393px;
+/* height: 1393px; */
 left: 148px;
 right: 152px;
 top: 857px;
 bottom: 2995px;
 
 }
-.main-start{
+.maain-start{
 display: flex;
 flex-direction: row;
 justify-content: flex-start;
@@ -188,7 +188,32 @@ letter-spacing: 0%;
 text-align: left;
 }
 
+.second-inspiration-container{
+    margin-top: 400px;
+    width: 1140px;
 
+border: 2px solid blue;
+}
 
+.inspiration-text{
+display: flex;
 
+flex-direction: column;
+justify-content: center;
+align-items: center;
+width: 70%;
+ margin: 0% auto;
+   
 
+}
+
+.inspiration-container{
+    display: flex;
+    flex-direction: column;
+justify-content: center;
+align-items: center;
+
+    width: 90%;
+
+ margin: 0% auto;
+}
