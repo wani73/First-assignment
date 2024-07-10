@@ -191,6 +191,7 @@ text-align: left;
 .second-inspiration-container{
     margin-top: 400px;
     width: 1140px;
+    height: 614px;
 
 border: 2px solid blue;
 }
@@ -217,3 +218,57 @@ align-items: center;
 
  margin: 0% auto;
 }
+
+
+/* 3rd-my-target-part */
+
+.third-my-target{
+    margin-top: 151px;
+    width: 1140px;
+    height: 460px;
+    border: 2px solid red;
+
+}
+.my-targer-text{
+display: flex;
+
+flex-direction: column;
+justify-content: center;
+align-items: center;
+width: 70%;
+ margin: 0% auto;
+
+}
+.target-skill-container{
+   margin-top:50px;
+    display: flex;
+    width: 99%;
+    margin: 0%, auto;
+    gap: 20px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.skill1{
+    width: 30%;
+    /* border:  2px solid red; */
+    background-color: rgba(255, 76, 30, 0.05);;
+      
+}
+.skill2{
+    width: 30%;
+    /* border:  2px solid red; */
+    background-color: rgba(0, 76, 232, 0.05);;
+    
+}
+.skill3{
+    width: 30%;
+    /* border:  2px solid red; */
+    background-color: rgba(255, 223, 0, 0.05);
+    
+}
+.learn{
+    color: black;
+    font-weight: bold;
+}
+
