@@ -48,4 +48,147 @@ margin-top: 35px;
 
 /* main */
 
+.development-container{
+    
+/* border: 2px solid red; */
+position: absolute;
+width: 1140px;
+height: 1393px;
+left: 148px;
+right: 152px;
+top: 857px;
+bottom: 2995px;
+
+}
+.main-start{
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+padding: 80px 97px 80px 97px;
+}
+
+.development-head{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.moon {color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;}
+
+.hafsa{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+}
+
+.development-body{
+    width: 1140px;
+    height: 336px;
+    /* border: 2px solid red; */
+    
+    
+
+
+}
+
+.development-code{
+    /* border: 2px solid red; */
+    display: flex;
+    width: 90%;
+    margin: 0% auto;
+   
+}
+.dev-code-text{
+    width: 50%;
+    /* border: 2px solid red; */
+    height: 336px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.dev-code-img{
+
+    width: 50%;
+   
+    height: 336px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.ptext{
+    margin-left: 85px;
+    
+}
+.htext{
+color: rgba(13, 19, 33, 0.7);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+.btn2{
+position: static;
+width: 150px;
+height: 48px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 20px 12px 20px;
+flex: none;
+order: 1;
+flex-grow: 0;
+margin-right: 200px;
+
+}
+
+.web-code-text{
+    width: 50%;
+    /* border: 2px solid red; */
+    height: 336px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btn3{
+    position: static;
+width: 150px;
+height: 48px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 20px 12px 20px;
+flex: none;
+order: 1;
+flex-grow: 0;
+margin-right:380px;
+}
+
+.hweb{
+ color: rgba(13, 19, 33, 0.7);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+
+
+
 
